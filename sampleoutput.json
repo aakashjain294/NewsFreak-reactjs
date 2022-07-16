@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Thomas Fuller",
+            "title": "San Francisco Voters Recall 3 Board of Education Members - The New York Times",
+            "description": "The recall, which galvanized Asian Americans, was a victory for parents angered by the district’s priorities during the pandemic.",
+            "url": "https://www.nytimes.com/2022/02/16/us/san-francisco-school-board-recall.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/15/us/15sf-schoolboard01/15sf-schoolboard01-facebookJumbo.jpg",
+            "publishedAt": "2022-02-16T06:20:59Z",
+            "content": "The board voted to strip Ms. Collins of her vice presidency, which prompted her to sue members of the board and the district for $87 million. A judge dismissed the case.\r\nDavid Lee, a political scien… [+1540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "Pokémon Bank Will Be \"Free To Use\" When 3DS eShop Purchases End - Nintendo Life",
+            "description": "Payments will no longer be required",
+            "url": "https://www.nintendolife.com/news/2022/02/pokemon-bank-will-be-free-to-use-when-3ds-eshop-purchases-end",
+            "urlToImage": "https://images.nintendolife.com/2749372806833/1280x720.jpg",
+            "publishedAt": "2022-02-16T06:19:15Z",
+            "content": "@Edwirichuu When they switched from Gen II to Gen III, the Game Boy/Game Boy Color games were incompatible with the Game Boy Advance games.\r\nAt first, this meant that you could not complete your Poke… [+258 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Michael D. Shear",
+            "title": "As Russia Announces Pullback, Biden Warns Ukraine Invasion Is Still Possible - The New York Times",
+            "description": "",
+            "url": "https://www.nytimes.com/live/2022/02/15/world/russia-ukraine-news",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/15/world/15ukraine-biden-1sub/15ukraine-biden-1sub-facebookJumbo-v2.jpg",
+            "publishedAt": "2022-02-16T05:01:00Z",
+            "content": "MOSCOW President Vladimir V. Putin said Tuesday that Russia had decided to partially pull back troops, and the Russian Defense Ministry announced that some forces from military districts bordering Uk… [+4250 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Remington Arms to pay $73 million to nine Sandy Hook families - Reuters",
+            "description": "Remington Arms will pay $73 million to the families of five children and four adults killed in the Sandy Hook Elementary School massacre, the families said on Tuesday, marking the first time a gunmaker has agreed to a major settlement over a mass shooting in …",
+            "url": "https://www.reuters.com/world/us/nine-sandy-hook-families-settle-liability-claims-with-remington-arms-2022-02-15/",
+            "urlToImage": "https://www.reuters.com/resizer/0UesCQoyhjwBW25iNoKtZcnJUAw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G3FZTLP25FJA7OG2G4QK4K4DSI.jpg",
+            "publishedAt": "2022-02-16T04:44:00Z",
+            "content": "Feb 15 (Reuters) - Remington Arms will pay $73 million to the families of five children and four adults killed in the Sandy Hook Elementary School massacre, the families said on Tuesday, marking the … [+3603 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Brian Stelter, CNN Business",
+            "title": "Top CNN exec resigns as WarnerMedia chief accuses her and former network boss Zucker of standards violations - CNN",
+            "description": "Nearly two weeks after CNN president Jeff Zucker was forced out of his position, his former lieutenant Allison Gollust has also resigned from the company.",
+            "url": "https://www.cnn.com/2022/02/15/media/jeff-zucker-allison-gollust/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220215171332-jeff-zucker-and-allison-gollust-2020-super-tease.jpg",
+            "publishedAt": "2022-02-16T04:07:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WESH Orlando"
+            },
+            "author": null,
+            "title": "Bob Saget’s family sues Orange County offices to stop release of further records - WESH 2 Orlando",
+            "description": "The lawsuit claims the further release of records would cause the family to “suffer irreparable harm in the form of extreme mental pain, anguish, and emotional distress”",
+            "url": "https://www.wesh.com/article/bob-saget-family-sues-medical-record/39098619",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/bob-saget-getty-h-2022-1644455050.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-02-16T03:55:00Z",
+            "content": "ORANGE COUNTY, Fla. —Bob Saget's family has filed a lawsuit against Orange County Sheriff John Mina and the medical examiners office to block the further release of medical records.\r\nThe lawsuit clai… [+1685 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Liam Reilly and Laura Studley, CNN",
+            "title": "Woman found dead in Manhattan apartment after being followed home, police say - CNN",
+            "description": "A 25-year-old man has been charged with murder after he allegedly followed a woman to her New York apartment and stabbed her dozens of times with a knife early Sunday, prosecutors say.",
+            "url": "https://www.cnn.com/2022/02/15/us/new-york-woman-stabbed-chinatown/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220214152839-01-chinatown-stabbing-rally-021422-super-tease.jpg",
+            "publishedAt": "2022-02-16T03:52:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Bappi Lahiri, Bollywood's Disco Legend, Dies At 69 - NDTV Movies",
+            "description": "Bappi Lahiri died in a hospital in Mumbai last night at the age of 69",
+            "url": "https://www.ndtv.com/entertainment/bappi-lahiri-pioneer-of-disco-in-bollywood-dies-at-69-2770864",
+            "urlToImage": "https://c.ndtvimg.com/2022-02/8fvres4g_bappi-lahiri_625x300_16_February_22.jpg",
+            "publishedAt": "2022-02-16T03:46:00Z",
+            "content": "A file photo of Bappi Lahiri. (courtesy: bappilahiri_official_)\r\nHighlights\r\n<ul><li>Bappi Lahiri died in Mumbai\r\n</li><li> He died at the age of 69\r\n</li><li> He died in a hospital in Mumbai last ni… [+2688 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Western Megadrought Now Worst In 1200 Years - KPIX CBS SF Bay Area",
+            "description": "The American West’s megadrought deepened so much last year that it is now the driest in at least 1,200 years and is a worst-case climate change scenario play...",
+            "url": "https://www.youtube.com/watch?v=8DlutDOWknQ",
+            "urlToImage": "https://i.ytimg.com/vi/8DlutDOWknQ/hqdefault.jpg",
+            "publishedAt": "2022-02-16T03:23:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Rocket About To Slam Into the Moon Was Launched by China, Not SpaceX - SciTechDaily",
+            "description": "Last month, astronomers reported that a discarded upper stage of a Falcon 9 rocket, launched 7 years ago, was on a collision course with the Moon. The rocket in question carried NASA’s Deep Space Climate Observatory (DSCOVR) to the Sun-Earth L1 Lagrange point…",
+            "url": "https://scitechdaily.com/rocket-about-to-slam-into-the-moon-was-launched-by-china-not-spacex/",
+            "urlToImage": "https://scitechdaily.com/images/Mars-Australe-Lava-Plain-on-Moon.jpg",
+            "publishedAt": "2022-02-16T02:53:26Z",
+            "content": "A high-definition image of the Mars Australe lava plain on the Moon taken by Japan’s Kaguya lunar orbiter in November 2007. Credit: JAXA/NHK\r\nLast month, astronomers reported that a discarded upper s… [+5455 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Leana S. Wen",
+            "title": "Opinion | Parents of little kids might be disappointed, but the FDA was right to delay vaccine authorization - The Washington Post",
+            "description": "The decision should help bolster confidence in vaccines and improve uptake.",
+            "url": "https://www.washingtonpost.com/opinions/2022/02/15/fda-delay-vaccines-kids-under-5-right-call/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X46OGFEDGEI6ZFI4DYGMG4R6KM.jpg&w=1440",
+            "publishedAt": "2022-02-16T02:28:14Z",
+            "content": "Despite my disappointment, I believe the FDA made the right decision to choose caution over expediency. Authorizing vaccines without meeting the endpoint for effectiveness could have worsened vaccine… [+4417 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Julius Young",
+            "title": "Kanye West apologizes for ‘harassing’ Kim Kardashian, takes ‘accountability’: 'I'm learning in real time' - Yahoo News",
+            "description": "The Yeezy boss addressed criticism from many that he was attempting to besmirch his estranged wife Kim Kardashian — with whom he shares four children — by...",
+            "url": "https://news.yahoo.com/kanye-west-apologizes-harassing-kim-001011397.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BlXsGd_kq8Yu1s_EJq838g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/F2IWEL9tKXYOGQ_YsxikWg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/fox_news_text_979/7d08c7246c7090471ba3da83869621e8",
+            "publishedAt": "2022-02-16T02:15:25Z",
+            "content": "Kanye West is getting hip to the times of text interaction.\r\nThe Yeezy boss is going on record admitting that his non-verbal written communication could use some work after he said some people pointe… [+3308 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tasnim Ahmed, CNN",
+            "title": "Researchers report third case of HIV remission after stem cell transplant using umbilical cord blood - CNN",
+            "description": "A US woman has become the third known person who's gone into HIV remission, and the first mixed-race woman, thanks to a transplant of stem cells from umbilical cord blood, according to research presented at a conference Tuesday.",
+            "url": "https://www.cnn.com/2022/02/15/health/hiv-third-person-remission/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/170412164306-hiv-ribbon-india-super-tease.jpg",
+            "publishedAt": "2022-02-16T02:12:00Z",
+            "content": "(CNN)A US woman has become the third known person who's gone into HIV remission, and the first mixed-race woman, thanks to a transplant of stem cells from umbilical cord blood, according to research … [+3584 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Conor Finnegan",
+            "title": "Some Russian troops moved to firing positions near Ukraine, Putin said be ready by Feb. 16: Sources - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/Politics/russian-troops-moved-firing-positions-ukraine-putin-ready/story?id=82909721",
+            "urlToImage": "https://s.abcnews.com/images/Politics/russia-buildup-ukraine-military-drills-03-ap-llr-220215_1644961308800_hpMain_16x9_992.jpg",
+            "publishedAt": "2022-02-16T01:18:45Z",
+            "content": "While Russia's defense ministry said Tuesday that some forces would pull back from Ukraine's borders after completing military exercises, the U.S. has so far not seen that, President Joe Biden said i… [+6491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "GOTTA SEE IT: Sidney Crosby Scores His 500th Career Goal Off A Feed From Evgeni Malkin - SPORTSNET",
+            "description": "Watch as Sidney Crosby records his 500th career goal thanks to a feed from Evgeni Malkin that just gets past Carter Hart.",
+            "url": "https://www.youtube.com/watch?v=-_HnZYPpv_8",
+            "urlToImage": "https://i.ytimg.com/vi/-_HnZYPpv_8/hqdefault.jpg",
+            "publishedAt": "2022-02-16T00:53:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Paul Martinka, Steven Vago, Bernadette Hogan, Carl Campanile, Bruce Golding",
+            "title": "Hillary Clinton mum amid 'Russiagate' before big Democrat speech in NYC - New York Post ",
+            "description": "Hillary Clinton was tight-lipped amid new allegations that her campaign paid for computer research to tie rival Donald Trump to Russia.",
+            "url": "https://nypost.com/2022/02/15/hillary-clinton-mum-amid-russiagate-before-nyc-democrat-speech/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/02/clintons-comp-2.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-02-16T00:43:00Z",
+            "content": "Hillary Clinton was tight-lipped when The Post caught up to her Tuesday amid new allegations that her campaign paid for computer research to tie rival Donald Trump to Russia — and just two days befor… [+3997 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "How does Ben Simmons fit in with the Nets? | SportsCenter - ESPN",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwWGXDuiZHfM",
+            "urlToImage": null,
+            "publishedAt": "2022-02-16T00:38:57Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Zoe Zoe",
+            "title": "Prince Andrew settles sex abuse lawsuit with accuser Virginia Giuffre - CBS News",
+            "description": "The suit was settled out of court and will require Andrew to donate to Giuffre's charity.",
+            "url": "https://www.cbsnews.com/news/prince-andrew-virginia-giuffre-sex-abuse-lawsuit-settlement/",
+            "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/02/15/26b8e680-2114-4a18-ad45-c8272e41fd84/thumbnail/1200x630/316228bc7c546740ab75607db53fa49c/gettyimages-1189369851.jpg",
+            "publishedAt": "2022-02-16T00:26:00Z",
+            "content": "Prince Andrew and Virginia Roberts Giuffre, who accused the royal of sexual abuse, have reached an out-of-court settlement. According to court documents filed Tuesday, Andrew will donate funds to Giu… [+3398 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Fishing boat sinks off Canada; 10 crew members dead, 11 missing, 3 survivors found \"in a state of hypothermic shock\" - CBS News",
+            "description": "Two lifeboats were \"completely empty,\" while in another, three survivors were found \"in a state of hypothermic shock,\" officials said.",
+            "url": "https://www.cbsnews.com/news/fishing-boat-sinks-canada-deaths-rescues/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/02/15/31b666ab-d182-4087-9e56-423f40aef539/thumbnail/1200x630/e152811a1faafa88ac60a628ba1c9cb0/ap22046557234541-1.jpg",
+            "publishedAt": "2022-02-16T00:09:00Z",
+            "content": "A Spanish fishing boat sank early Tuesday in rough seas off Newfoundland in eastern Canada, killing at least 10 people, officials said. Three crew members were saved from a lifeboat, and a maritime s… [+3853 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Christopher Clarey",
+            "title": "Djokovic Willing to Miss Grand Slam Tournaments to Stay Unvaccinated - The New York Times",
+            "description": "The top men’s tennis player — for now — has expressed a desire to be “in tune” with his body that has left him badly out of tune with his sport and the times.",
+            "url": "https://www.nytimes.com/2022/02/15/sports/tennis/djokovic-vaccine-wimbledon-french-open.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/02/15/sports/15tennis-djokovic/15tennis-djokovic-facebookJumbo.jpg",
+            "publishedAt": "2022-02-15T23:49:39Z",
+            "content": "Djokovic should have access to Wimbledon unless Britains coronavirus policy changes. He has been the most successful grass-court player in recent years, winning at the All England Club six times. But… [+1403 chars]"
+        }
+    ]
+}
